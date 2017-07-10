@@ -1,4 +1,4 @@
-# Daily-trading-report
+
 # Daily Trade Reporting Engine
 
  simple daily trade reporting engine for incoming instructions.
